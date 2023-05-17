@@ -1,0 +1,41 @@
+SRS for Online Project Management Tool 
+
+1. Purpose 
+The purpose of this document is to provide a detailed description of the requirement of the Online Project Management tool. 
+This documents lists the funtional requirements of the tool. 
+
+2. Objective 
+Online Project Managment is a tool to help in managing projects within the organisation. 
+
+3. Functional Requirements 
+
+3.1 Employees, Managers and Stakeholders account creation and management 
+	Employees, Managers and Stakeholders can access the portal to create and manage their accounts. 
+3.2 Admin Portal 
+	Admin portal is to be created for the app. Admin can create and deleter user accounts. 
+	Manager and Shareholder roles can only be assigned via the admin portal 
+	
+3.3 Role based authorisation 
+	Users: 
+	Users will be able to access functionalities based on their role. 
+	Managers: 
+	All Managers will be able to add employees to their department.
+	All Managers will be able to check performance of employees and provide details of performance based incentives to the accounts team. 
+	Project Managers:
+	Project manger will be able to create new projects.
+	Project Managers will be able to assign and reassign tasks to employees within their team and track the progress of their project. 
+	Project managers will be able to schedule team meetings from witin the portal. 
+	Delivery Managers: 
+	Delivery Managers will be able to track progress of multiple projects. 
+	Stake Holders: 
+	Stake holders will be able to view progress of their projects and provide feedback on the same. 
+	Stake holders will be able to assign tasks to project managers. 
+	Stake holder will be able to schedule a meeting with the managers.
+	Employees: 
+	Employees will be able to view tasks assigned to them along with the due date and provide update on the work done. 
+	 	
+3.4 Task Notifications 
+	Employees will receive a notification in the portal and email when a new task is assigned to them. 
+	Employees and managers will receive a notification if task is pending for more than 24 hrs or if the task deadline is within 3 days. 
+	Once, meetin is scheduled everyone to be involved in the meeting will be notified. 
+

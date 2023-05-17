@@ -1,0 +1,23 @@
+Business Entinites 
+
+Admin: Admin ID, Admin Username, Admin Password  
+Employee: Employee ID, Name, email,Department, Role, Manager
+Department: Dept No, Dept Name
+Role: Role Types
+Manager: Mgrno, Name, Email, Manager Role, Project ID
+Stake Holders: ID, Name, Email, Project ID, Check progress, Feedback 
+Project:  Project ID, Project name
+Task: TaskId, Project ID, AssignedToEmployeeID,Assigned on Date,Due Date
+Meetings:Meeting Id, Meeting Date, Meeting Time
+
+Business Operations
+
+1. Assign Roles 
+2. Assign tasks 
+3. Create Projects 
+4. Add employee to department
+5. Schedule Meeting 
+6. Track progress. 
+7. Track Performance
+8. Update Progress
+9. View Tasks
